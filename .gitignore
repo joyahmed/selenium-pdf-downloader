@@ -1,0 +1,29 @@
+# Eclipse
+bin/
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE-specific files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive information (add your own specific files)
+config.properties
