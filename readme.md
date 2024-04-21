@@ -24,7 +24,7 @@ The `FileUtils` class provides utility methods for file-related operations. It u
 
 2. **HttpClient**: Java's `HttpClient` library is used to perform the file download. This approach ensures that the PDF file is downloaded directly from the URL without relying on the browser's default behavior.
 
-3. **Separation of Concerns**: The project follows the principle of separation of concerns by dividing the functionality into separate classes (`Main`, `PdfDownloader`, `FileUtils`), each responsible for a specific aspect of the process.
+3. **Separation of Concerns**: The project follows the principle of separation of concerns by dividing the functionality into separate classes (`Download`, `PdfDownloader`, `FileUtils`), each responsible for a specific aspect of the process.
 
 ## Rationale for Approach
 
