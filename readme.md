@@ -6,7 +6,7 @@ This project automates the download of a PDF file from a webpage using Selenium 
 
 ## Components
 
-### 1. Main Class (Main.java)
+### 1. Main Class (Download.java)
 
 This class initializes the Selenium WebDriver, navigates to the webpage containing the link to download the PDF, and invokes the `PdfDownloader` class to handle the download process.
 
